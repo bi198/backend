@@ -1,0 +1,12 @@
+{
+    "name": "bi/backend",
+    "description": "none",
+    "authors": [
+        {
+            "name": "Trinh Nguyen",
+            "email": "bbgk198@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
